@@ -1,0 +1,4 @@
+pip install gunicorn
+pip freeze > requirements.txt
+
+# https://frozen-depths-17227-bda2881157b1.herokuapp.com/ | https://git.heroku.com/frozen-depths-17227.git
