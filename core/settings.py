@@ -179,7 +179,7 @@ EMAIL_USE_TLS = True
 EMAIL_HOST_USER = 'your_email@gmail.com'
 EMAIL_HOST_PASSWORD = 'your_email_password'
 
-ALLOWED_HOSTS = ['your-heroku-app.herokuapp.com', 'localhost']
+ALLOWED_HOSTS = ['frozen-depths-17227.herokuapp.com', 'localhost']
 
 STATICFILES_STORAGE = 'whitenoise.storage.CompressedManifestStaticFilesStorage'
 STATIC_URL = '/static/'
